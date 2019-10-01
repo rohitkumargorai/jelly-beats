@@ -1,9 +1,9 @@
 > # :warning: Unmaintained project
 > The project is not longer maintained, feel free to contact me if you are interested to continue the development or creating a fork :v:
 
-<h1 align=center>
+<h2 align=center>
   <img src="https://user-images.githubusercontent.com/39308480/43605302-e794780c-9665-11e8-9e25-7abefc7a3092.png" alt="jelly-              beats" width="54%">
-</h1>
+</h2>
 
 <h1 align="center">
  <a href="https://travis-ci.org/btzr-io/jelly-beats">
